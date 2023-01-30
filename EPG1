@@ -195,13 +195,13 @@ http://daleplaypro.com:8080/J4757g67/G4757j67/110101
 #EXTINF:-1 tvg-ID="M+ ESTRENOS 2 HD" tvg-name="M+ ESTRENOS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1h1E_fb__1ABaDNgQwQGcDmYnxFjD4ijDX7MgEBJcwDc87tOR&s" group-title="(TV) ESPAÑA",M+ ESTRENOS 2 FHD
 http://daleplaypro.com:8080/J4757g67/G4757j67/110102
 
-#EXTINF:-1 tvg-ID="M+ ACCION HD" tvg-name="M+ ACCION HD" tvg-logo="http://daleplay.club:8080/images/95e69be11fae1b753bbe056915b26c11.png" group-title="(TV) ESPAÑA",M+ ACCION
+#EXTINF:-1 tvg-ID="M+ ACCION HD" tvg-name="M+ ACCION HD" tvg-logo="http://daleplay.club:8080/images/95e69be11fae1b753bbe056915b26c11.png" group-title="(TV) ESPAÑA",M+ ACCIÓN HD
 http://daleplaypro.com:8080/J4757g67/G4757j67/110103
 
-#EXTINF:-1 tvg-ID="M+ ACCION HD" tvg-name="M+ ACCION HD" tvg-logo="http://daleplay.club:8080/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="(TV) ESPAÑA",M+ ACCION HD
+#EXTINF:-1 tvg-ID="M+ ACCION HD" tvg-name="M+ ACCION HD" tvg-logo="http://daleplay.club:8080/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="(TV) ESPAÑA",M+ ACCIÓN HD
 http://daleplaypro.com:8080/J4757g67/G4757j67/110104
 
-#EXTINF:-1 tvg-ID="M+ ACCION HD" tvg-name="M+ ACCION HD" tvg-logo="http://daleplay.club:8080/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="(TV) ESPAÑA",M+ ACCION FHD
+#EXTINF:-1 tvg-ID="M+ ACCION HD" tvg-name="M+ ACCION HD" tvg-logo="http://daleplay.club:8080/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="(TV) ESPAÑA",M+ ACCIÓN HD
 http://daleplaypro.com:8080/J4757g67/G4757j67/110105
 
 #EXTINF:-1 tvg-ID="M+COMEDIA HD" tvg-name="M+COMEDIA HD" tvg-logo="http://daleplay.club:8080/images/09ab04e233864f2f4d992c86a663671a.jpg" group-title="(TV) ESPAÑA",M+ COMEDIA
@@ -595,7 +595,7 @@ http://daleplaypro.com:8080/J4757g67/G4757j67/13436
 #EXTINF:-1 tvg-ID="M+ #0 HD" tvg-name="M+ #0 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMC7bGYHkEfg4VyAcOqNcJVyiEt5CtvXDHrQ&usqp=CAU" group-title="(TV) MOVISTAR Y ALQUILLER",M+ #0 HD
 http://daleplaypro.com:8080/J4757g67/G4757j67/13437
 
-#EXTINF:-1 tvg-ID="M+ ACCION HD" tvg-name="M+ ACCION HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCsDBs4S34m-f_q7ZjbiHweVQ8z-lYK81PA&usqp=CAU" group-title="(TV) MOVISTAR Y ALQUILLER",M+ ACCION HD
+#EXTINF:-1 tvg-ID="M+ ACCION HD" tvg-name="M+ ACCION HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCsDBs4S34m-f_q7ZjbiHweVQ8z-lYK81PA&usqp=CAU" group-title="(TV) MOVISTAR Y ALQUILLER",M+ ACCIÓN HD
 http://daleplaypro.com:8080/J4757g67/G4757j67/13438
 
 #EXTINF:-1 tvg-ID="BOM Cine" tvg-name="BOM Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/130px-Logo-bom.svg.png" group-title="(TV) MOVISTAR Y ALQUILLER",BOM CINE
