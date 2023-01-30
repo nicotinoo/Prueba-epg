@@ -180,13 +180,13 @@ http://daleplaypro.com:8080/J4757g67/G4757j67/110096
 #EXTINF:-1 tvg-ID="M+ #0 HD" tvg-name="M+ #0 HD" tvg-logo="http://daleplay.club:8080/images/67940993cb73c0e92cc8558dc78c4d22.png" group-title="(TV) ESPAÑA",#0 FHD
 http://daleplaypro.com:8080/J4757g67/G4757j67/110097
 
-#EXTINF:-1 tvg-ID="M+ESTRENOSHD" tvg-name="M+ESTRENOSHD" tvg-logo="http://daleplay.club:8080/images/b87c40a4d1aa4739ad4a2115cf263bbd.png" group-title="(TV) ESPAÑA",M+ ESTRENOS
+#EXTINF:-1 tvg-ID="M+ESTRENOSHD" tvg-name="M+ESTRENOSHD" tvg-logo="http://daleplay.club:8080/images/b87c40a4d1aa4739ad4a2115cf263bbd.png" group-title="(TV) ESPAÑA",M+ ESTRENOSHD
 http://daleplaypro.com:8080/J4757g67/G4757j67/110098
 
-#EXTINF:-1 tvg-ID="M+ESTRENOSHD" tvg-name="M+ESTRENOSHD" tvg-logo="http://daleplay.club:8080/images/b87c40a4d1aa4739ad4a2115cf263bbd.png" group-title="(TV) ESPAÑA",M+ ESTRENOS HD
+#EXTINF:-1 tvg-ID="M+ESTRENOSHD" tvg-name="M+ESTRENOSHD" tvg-logo="http://daleplay.club:8080/images/b87c40a4d1aa4739ad4a2115cf263bbd.png" group-title="(TV) ESPAÑA",M+ ESTRENOSHD
 http://daleplaypro.com:8080/J4757g67/G4757j67/110099
 
-#EXTINF:-1 tvg-ID="M+ESTRENOSHD" tvg-name="M+ESTRENOSHD" tvg-logo="http://daleplaypro.com:8080/images/dd94a3624f8f41e7a9ef3ee1abec6ea2.png" group-title="(TV) ESPAÑA",M+ ESTRENOS FHD
+#EXTINF:-1 tvg-ID="M+ESTRENOSHD" tvg-name="M+ESTRENOSHD" tvg-logo="http://daleplaypro.com:8080/images/dd94a3624f8f41e7a9ef3ee1abec6ea2.png" group-title="(TV) ESPAÑA",M+ ESTRENOSHD
 http://daleplaypro.com:8080/J4757g67/G4757j67/110100
 
 #EXTINF:-1 tvg-ID="M+ ESTRENOS 2 HD" tvg-name="M+ ESTRENOS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1h1E_fb__1ABaDNgQwQGcDmYnxFjD4ijDX7MgEBJcwDc87tOR&s" group-title="(TV) ESPAÑA",M+ ESTRENOS 2 HD
@@ -601,7 +601,7 @@ http://daleplaypro.com:8080/J4757g67/G4757j67/13438
 #EXTINF:-1 tvg-ID="BOM Cine" tvg-name="BOM Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/130px-Logo-bom.svg.png" group-title="(TV) MOVISTAR Y ALQUILLER",BOM CINE
 http://daleplaypro.com:8080/J4757g67/G4757j67/13441
 
-#EXTINF:-1 tvg-ID="M+ESTRENOSHD" tvg-name="M+ESTRENOSHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPIYVJdMqvGvYPx_UsHgK6hWDn5RJpqUkz1A&usqp=CAU" group-title="(TV) MOVISTAR Y ALQUILLER",M+ ESTRENOS HD
+#EXTINF:-1 tvg-ID="M+ESTRENOSHD" tvg-name="M+ESTRENOSHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPIYVJdMqvGvYPx_UsHgK6hWDn5RJpqUkz1A&usqp=CAU" group-title="(TV) MOVISTAR Y ALQUILLER",M+ ESTRENOSHD
 http://daleplaypro.com:8080/J4757g67/G4757j67/13442
 
 #EXTINF:-1 tvg-ID="ext" tvg-name="M+ CINEDOC&ROLL SD (C)" tvg-logo="https://www.google.com/search?q=movistar+cine+doc+&+roll&tbm=isch&ved=2ahUKEwiopYuB_avxAhXUvJUCHVKAD7cQ2-cCegQIABAC&oq=movistar+cine&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQARgCMgIIADICCAAyAggAMgIIADIECAAQGDoECCMQJzoECAAQHjoECB4QCjoFCAAQzQI6BQgAELEDOgYIABAKEBg6BAgAEA1QjIoEWLvCBGDs0gRoAnAAeACAAZ0BiAGVEpIBBDQuMTaYAQCgAQHAAQE&sclient=mobile-gws-wiz-img&ei=LDrSYKjfA9T51sQP0oC-uAs&bih=600&biw=360&client=ms-android-huawei&prmd=minv#imgrc=BPGKS5dxjYKVSM" group-title="(TV) MOVISTAR Y ALQUILLER",M+ CINEDOC&ROLL SD (C)
@@ -1179,7 +1179,7 @@ http://txm1.flysat.live:2089/152067508065276/152022654820017/199907
 #EXTINF:-1 tvg-ID="M+ DRAMA HD" tvg-name="M+ DRAMA HD" tvg-logo="" group-title="ESPANA 2",M+ DRAMA HD
 http://txm1.flysat.live:2089/152067508065276/152022654820017/199906
 
-#EXTINF:-1 tvg-ID="M+ESTRENOS HD" tvg-name="M+ESTRENOS HD" tvg-logo="" group-title="ESPANA 2",M+ESTRENOS HD
+#EXTINF:-1 tvg-ID="M+ESTRENOS HD" tvg-name="M+ESTRENOS HD" tvg-logo="" group-title="ESPANA 2",M+ESTRENOSHD
 http://txm1.flysat.live:2089/152067508065276/152022654820017/199905
 
 #EXTINF:-1 tvg-ID="M+ SERIES HD" tvg-name="M+ SERIES HD" tvg-logo="" group-title="ESPANA 2",M+ SERIES HD
