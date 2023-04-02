@@ -1,0 +1,1197 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA 1 HD" tvg-logo="" group-title="(IPTV) T.D.T",LA 1 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65011
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA 1 FHD" tvg-logo="" group-title="(IPTV) T.D.T",LA 1 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65012
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="La 1 UHD 4K" tvg-logo="" group-title="(IPTV) T.D.T",La 1 UHD 4K
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65013
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="TVE INTERNACIONAL" tvg-logo="" group-title="(IPTV) T.D.T",TVE INTERNACIONAL
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65014
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="24 Horas" tvg-logo="" group-title="(IPTV) T.D.T",24 Horas
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65016
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="24 Horas FHD" tvg-logo="" group-title="(IPTV) T.D.T",24 Horas FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65017
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA 2 HD" tvg-logo="" group-title="(IPTV) T.D.T",LA 2 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65018
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA 2 FHD" tvg-logo="" group-title="(IPTV) T.D.T",LA 2 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65019
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ANTENA 3 HD" tvg-logo="" group-title="(IPTV) T.D.T",ANTENA 3 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65020
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ANTENA 3 FHD" tvg-logo="" group-title="(IPTV) T.D.T",ANTENA 3 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65021
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="CUATRO HD" tvg-logo="" group-title="(IPTV) T.D.T",CUATRO HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65022
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="CUATRO FHD" tvg-logo="" group-title="(IPTV) T.D.T",CUATRO FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65023
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="TELECINCO HD" tvg-logo="" group-title="(IPTV) T.D.T",TELECINCO HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65024
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="TELECINCO FHD" tvg-logo="" group-title="(IPTV) T.D.T",TELECINCO FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65025
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA SEXTA HD" tvg-logo="" group-title="(IPTV) T.D.T",LA SEXTA HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65026
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA SEXTA FHD" tvg-logo="" group-title="(IPTV) T.D.T",LA SEXTA FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65027
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="TEN SD" tvg-logo="" group-title="(IPTV) T.D.T",TEN SD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65028
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DKISS SD" tvg-logo="" group-title="(IPTV) T.D.T",DKISS SD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65029
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="BEMAD TV HD" tvg-logo="" group-title="(IPTV) T.D.T",BEMAD TV HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65030
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="BEMAD TV FHD" tvg-logo="" group-title="(IPTV) T.D.T",BEMAD TV FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65031
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="A3SERIES HD" tvg-logo="" group-title="(IPTV) T.D.T",A3SERIES HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65032
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="A3SERIES FHD" tvg-logo="" group-title="(IPTV) T.D.T",A3SERIES FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65033
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="NEOX HD" tvg-logo="" group-title="(IPTV) T.D.T",NEOX HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65034
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="NEOX FHD" tvg-logo="" group-title="(IPTV) T.D.T",NEOX FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65035
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="NOVA HD" tvg-logo="" group-title="(IPTV) T.D.T",NOVA HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65036
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="NOVA FHD" tvg-logo="" group-title="(IPTV) T.D.T",NOVA FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65037
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ENERGY HD" tvg-logo="" group-title="(IPTV) T.D.T",ENERGY HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65038
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ENERGY FHD" tvg-logo="" group-title="(IPTV) T.D.T",ENERGY FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65039
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DIVINITY FHD" tvg-logo="" group-title="(IPTV) T.D.T",DIVINITY FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65040
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DIVINITY HD" tvg-logo="" group-title="(IPTV) T.D.T",DIVINITY HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65041
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="FDF HD" tvg-logo="" group-title="(IPTV) T.D.T",FDF HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65042
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="FDF FHD" tvg-logo="" group-title="(IPTV) T.D.T",FDF FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65043
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MEGA HD" tvg-logo="" group-title="(IPTV) T.D.T",MEGA HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65044
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MEGA FHD" tvg-logo="" group-title="(IPTV) T.D.T",MEGA FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65045
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ATRESCINE HD" tvg-logo="" group-title="(IPTV) T.D.T",ATRESCINE HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65046
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="STAR TVE" tvg-logo="" group-title="(IPTV) T.D.T",STAR TVE
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65047
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="STAR TVE FHD" tvg-logo="" group-title="(IPTV) T.D.T",STAR TVE FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65048
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ENFAMILIA HD" tvg-logo="" group-title="(IPTV) T.D.T",ENFAMILIA HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65049
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ENFAMILIA FHD" tvg-logo="" group-title="(IPTV) T.D.T",ENFAMILIA FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65050
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DeCasa HD" tvg-logo="" group-title="(IPTV) T.D.T",DeCasa HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65202
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DeCasa 4K (UHD)" tvg-logo="" group-title="(IPTV) T.D.T",DeCasa 4K (UHD)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65599
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="EL PAIS T.V." tvg-logo="" group-title="(IPTV) T.D.T",EL PAIS T.V.
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65605
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Comedy Central FHD" tvg-logo="" group-title="(IPTV) T.D.T",Comedy Central FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65670
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="COSMO FHD" tvg-logo="" group-title="(IPTV) T.D.T",COSMO FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65980
+
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+ OSCARS" tvg-logo="" group-title="(IPTV) CINE & SERIES ",M+ OSCARS
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41837
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="#0 HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",#0 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41838
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="#0 FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",#0 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41839
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Movistar Estrenos HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",Movistar Estrenos HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41840
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Movistar Estrenos FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",Movistar Estrenos FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41841
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR ESTRENOS 2 FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",MOVISTAR ESTRENOS 2 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41842
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR ESTRENOS 2 HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",MOVISTAR ESTRENOS 2 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41843
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR CLASICOS HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",MOVISTAR CLASICOS HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41844
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR CLASICOS FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",MOVISTAR CLASICOS FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41845
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR ACCION HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",MOVISTAR ACCION HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41846
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Movistar Accion FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",Movistar Accion FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41847
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR COMEDIA HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",MOVISTAR COMEDIA HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41848
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Movistar Comedia FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",Movistar Comedia FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41849
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR DRAMA HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",MOVISTAR DRAMA HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41850
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR Drama FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",MOVISTAR Drama FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41851
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Movistar Crimen HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",Movistar Crimen HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41852
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR  CINE FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",MOVISTAR  CINE FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41853
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR CINE [HD]" tvg-logo="" group-title="(IPTV) CINE & SERIES ",MOVISTAR CINE [HD]
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41854
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="SOMOS HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",SOMOS HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41855
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="SOMOS FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",SOMOS FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41856
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Hollywood SD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",Hollywood SD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41858
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Hollywood HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",Hollywood HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41859
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="SUNDANCE HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",SUNDANCE HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41860
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Dark HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",Dark HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41861
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",PARAMOUNT CHANNEL HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41862
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",PARAMOUNT CHANNEL SD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41863
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MARVEL STUDIO? (FILMS)" tvg-logo="" group-title="(IPTV) CINE & SERIES ",MARVEL STUDIO? (FILMS)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/25676
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR  SERIES 2" tvg-logo="" group-title="(IPTV) CINE & SERIES ",MOVISTAR  SERIES 2
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41864
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR SERIES 2 HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",MOVISTAR SERIES 2 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41865
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR  SERIES 2 FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",MOVISTAR  SERIES 2 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41866
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR  SERIES" tvg-logo="" group-title="(IPTV) CINE & SERIES ",MOVISTAR  SERIES
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41867
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR SERIES HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",MOVISTAR SERIES HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41868
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR  SERIES FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",MOVISTAR  SERIES FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41869
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="La Resistencia 24h. HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",La Resistencia 24h. HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41870
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="La Resistencia FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",La Resistencia FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41871
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="AXN WHITE HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",AXN WHITE HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41872
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="AXN WHITE FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",AXN WHITE FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41873
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="AXN" tvg-logo="" group-title="(IPTV) CINE & SERIES ",AXN
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41874
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="AXN HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",AXN HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41875
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="AXN FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",AXN FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41876
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="CALLE 13 HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",CALLE 13 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41877
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="CALLE 13 FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",CALLE 13 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41878
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="TNT HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",TNT HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41879
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="TNT FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",TNT FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41880
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="TCM HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",TCM HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41881
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="TCM FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",TCM FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41882
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="FOX HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",FOX HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41883
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="FOX FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",FOX FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41884
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="XTRM HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",XTRM HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41885
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="XTRM FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",XTRM FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41886
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="AMC FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",AMC FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/49360
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="BOM CINE" tvg-logo="" group-title="(IPTV) CINE & SERIES ",BOM CINE
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/50929
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="A3CINE" tvg-logo="" group-title="(IPTV) CINE & SERIES ",A3CINE
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/51060
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Pluto TV Cine Estelar" tvg-logo="" group-title="(IPTV) CINE & SERIES ",Pluto TV Cine Estelar
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/51327
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Pluto TV Series Comedia" tvg-logo="" group-title="(IPTV) CINE & SERIES ",Pluto TV Series Comedia
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/51350
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="RAKUTEN T.V. - iCarly" tvg-logo="" group-title="(IPTV) CINE & SERIES ",RAKUTEN T.V. - iCarly
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/54907
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="RAKUTEN T.V. - Comedy Spain" tvg-logo="" group-title="(IPTV) CINE & SERIES ",RAKUTEN T.V. - Comedy Spain
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/54908
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Disney + FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",Disney + FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/63490
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Verdi TV HD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",Verdi TV HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/63563
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Cine Comedia" tvg-logo="" group-title="(IPTV) CINE & SERIES ",Cine Comedia
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/63566
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Cine Terror" tvg-logo="" group-title="(IPTV) CINE & SERIES ",Cine Terror
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/63567
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="RunTime CINE [HD]" tvg-logo="" group-title="(IPTV) CINE & SERIES ",RunTime CINE [HD]
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/63564
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="SY-FY FHD" tvg-logo="" group-title="(IPTV) CINE & SERIES ",SY-FY FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65981
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MARVEL STUDIO? (SERIES)" tvg-logo="" group-title="(IPTV) CINE & SERIES ",MARVEL STUDIO? (SERIES)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66384
+
+
+
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="CANAL TOROS HD" tvg-logo="" group-title="(IPTV) AFICIONES ",CANAL TOROS HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/115
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Canal Toros FHD" tvg-logo="" group-title="(IPTV) AFICIONES ",Canal Toros FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/114
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Caza y Pesca HD" tvg-logo="" group-title="(IPTV) AFICIONES ",Caza y Pesca HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/117
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Caza y Pesca FHD" tvg-logo="" group-title="(IPTV) AFICIONES ",Caza y Pesca FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/116
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Iberalia TV" tvg-logo="" group-title="(IPTV) AFICIONES ",Iberalia TV
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/118
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="HORSE T.V." tvg-logo="" group-title="(IPTV) AFICIONES ",HORSE T.V.
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/121
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Garage TV" tvg-logo="" group-title="(IPTV) AFICIONES ",Garage TV
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/124
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="CANAL COCINA HD" tvg-logo="" group-title="(IPTV) AFICIONES ",CANAL COCINA HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/126
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="CANAL COCINA FHD" tvg-logo="" group-title="(IPTV) AFICIONES ",CANAL COCINA FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/125
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="EL GOURMET (COCINA LATINA)" tvg-logo="" group-title="(IPTV) AFICIONES ",EL GOURMET (COCINA LATINA)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/2553
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Iberalia TV SD" tvg-logo="" group-title="(IPTV) AFICIONES ",Iberalia TV SD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/128
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="FOOD NETWORK LATINO FHD" tvg-logo="" group-title="(IPTV) AFICIONES ",FOOD NETWORK LATINO FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/3018
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Nautical Channel HD" tvg-logo="" group-title="(IPTV) AFICIONES ",Nautical Channel HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/19425
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Iberalia TV [100esca]" tvg-logo="" group-title="(IPTV) AFICIONES ",Iberalia TV [100esca]
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/26990
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Iberalia TV [100aza] FHD" tvg-logo="" group-title="(IPTV) AFICIONES ",Iberalia TV [100aza] FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/26991
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="PLUTO COCINA" tvg-logo="" group-title="(IPTV) AFICIONES ",PLUTO COCINA
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/38536
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="CAZAVISION SD" tvg-logo="" group-title="(IPTV) AFICIONES ",CAZAVISION SD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/50263
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="CAZAVISION FHD" tvg-logo="" group-title="(IPTV) AFICIONES ",CAZAVISION FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/50264
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Ubeat FHD" tvg-logo="" group-title="(IPTV) AFICIONES ",Ubeat FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/50911
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DBIKE HD FHD" tvg-logo="" group-title="(IPTV) AFICIONES ",DBIKE HD FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55941
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Equidia HD [Franc?s]" tvg-logo="" group-title="(IPTV) AFICIONES ",Equidia HD [Franc?s]
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/56028
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Equilia [Live] Franc?s." tvg-logo="" group-title="(IPTV) AFICIONES ",Equilia [Live] Franc?s.
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/63224
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Canal Cocina 4K" tvg-logo="" group-title="(IPTV) AFICIONES ",Canal Cocina 4K
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64521
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="TasteMade ( En Espanol - Recetas Cocina)" tvg-logo="" group-title="(IPTV) AFICIONES ",TasteMade ( En Espanol - Recetas Cocina)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66159
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="FISH TV (PORTUGUES)" tvg-logo="" group-title="(IPTV) AFICIONES ",FISH TV (PORTUGUES)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/17909
+
+
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="HISTORIA HD" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",HISTORIA HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41774
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="HISTORIA FHD" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",HISTORIA FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41775
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="NATIONAL GEOGRAPHIC [1080p]" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",NATIONAL GEOGRAPHIC [1080p]
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41776
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",NATIONAL GEOGRAPHIC HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41777
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",NATIONAL GEOGRAPHIC FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41778
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",NATIONAL GEOGRAPHIC WILD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41779
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="NATIONAL GEOGRAFIC WILD HD" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",NATIONAL GEOGRAFIC WILD HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41780
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",NATIONAL GEOGRAPHIC WILD FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41781
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",DISCOVERY CHANNEL
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41782
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DISCOVERY HD" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",DISCOVERY HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41783
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",DISCOVERY CHANNEL FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41784
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DMAX" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",DMAX
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41785
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DMAX FHD" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",DMAX FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41786
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ODISEA" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",ODISEA
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41787
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ODISEA HD" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",ODISEA HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41788
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ODISEA FHD" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",ODISEA FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41789
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="AMC Break FHD" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",AMC Break FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41792
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="AMC Break HD" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",AMC Break HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41793
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="AMC Crimen" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",AMC Crimen
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41794
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="AMC Crimen FHD" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",AMC Crimen FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/41795
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Animal Planet HD(E)" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",Animal Planet HD(E)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/51303
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Animal Planet FHD (E)" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",Animal Planet FHD (E)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/51304
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MTV Documental" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",MTV Documental
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/51316
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="El Conquistador del Fin" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",El Conquistador del Fin
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/51346
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Love Nature" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",Love Nature
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/51356
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Odisea [4K]" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",Odisea [4K]
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/53509
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="WildEart" tvg-logo="" group-title="(IPTV) DOCUMENTALES ",WildEart
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/63569
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Sol Musica" tvg-logo="" group-title="(IPTV) MUSICALES",Sol Musica
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/50913
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MTV 00 HD" tvg-logo="" group-title="(IPTV) MUSICALES",MTV 00 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55106
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MEZZO LIVE FULL HD" tvg-logo="" group-title="(IPTV) MUSICALES",MEZZO LIVE FULL HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55107
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="VIVA RTV Espa?a" tvg-logo="" group-title="(IPTV) MUSICALES",VIVA RTV Espa?a
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55130
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="RTL 102.5 Italia IT" tvg-logo="" group-title="(IPTV) MUSICALES",RTL 102.5 Italia IT
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55131
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="30A Music USA EN" tvg-logo="" group-title="(IPTV) MUSICALES",30A Music USA EN
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55132
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Retro Plus TV Chile EN" tvg-logo="" group-title="(IPTV) MUSICALES",Retro Plus TV Chile EN
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55134
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Spirit TV USA EN" tvg-logo="" group-title="(IPTV) MUSICALES",Spirit TV USA EN
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55136
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Recuerdos Retro Radio TV" tvg-logo="" group-title="(IPTV) MUSICALES",Recuerdos Retro Radio TV
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55985
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="First Music Channel 2" tvg-logo="" group-title="(IPTV) MUSICALES",First Music Channel 2
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55986
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="OCKSTAR" tvg-logo="" group-title="(IPTV) MUSICALES",OCKSTAR
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55987
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Ocko Chequia" tvg-logo="" group-title="(IPTV) MUSICALES",Ocko Chequia
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55988
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="QMusic" tvg-logo="" group-title="(IPTV) MUSICALES",QMusic
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55989
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Top New Radio" tvg-logo="" group-title="(IPTV) MUSICALES",Top New Radio
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55990
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="GO-RTV" tvg-logo="" group-title="(IPTV) MUSICALES",GO-RTV
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55991
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="RUIDOS TV" tvg-logo="" group-title="(IPTV) MUSICALES",RUIDOS TV
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55993
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="88 STEREO" tvg-logo="" group-title="(IPTV) MUSICALES",88 STEREO
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55994
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Vallenato Internacional" tvg-logo="" group-title="(IPTV) MUSICALES",Vallenato Internacional
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55995
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Flash" tvg-logo="" group-title="(IPTV) MUSICALES",Flash
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55996
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="CAROLINA TV" tvg-logo="" group-title="(IPTV) MUSICALES",CAROLINA TV
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55997
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="XL MUSICA" tvg-logo="" group-title="(IPTV) MUSICALES",XL MUSICA
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55998
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="XITE" tvg-logo="" group-title="(IPTV) MUSICALES",XITE
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55999
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="RETROPLUS TV 2" tvg-logo="" group-title="(IPTV) MUSICALES",RETROPLUS TV 2
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/56000
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="RETROPLUS TV" tvg-logo="" group-title="(IPTV) MUSICALES",RETROPLUS TV
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/56001
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ELLOS CONCERT FHD" tvg-logo="" group-title="(IPTV) MUSICALES",ELLOS CONCERT FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/63573
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="CMC HD" tvg-logo="" group-title="(IPTV) MUSICALES",CMC HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/63582
+
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. DEPORTES SD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",M. DEPORTES SD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55943
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. DEPORTES Full HD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",M. DEPORTES Full HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55947
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR VAMOS FHD (FIBRA) ?" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",MOVISTAR VAMOS FHD (FIBRA) ?
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66208
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="#Vamos HD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",#Vamos HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66209
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Vamos FHD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",Vamos FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66210
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="GOL PLAY HD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",GOL PLAY HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66211
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="GOL PLAY FHD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",GOL PLAY FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66212
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR DEPORTES HD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",MOVISTAR DEPORTES HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66213
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR DEPORTES FHD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",MOVISTAR DEPORTES FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66214
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR DEPORTES 1 HD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",MOVISTAR DEPORTES 1 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66215
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR DEPORTES 1 FHD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",MOVISTAR DEPORTES 1 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66216
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR DEPORTES 2 HD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",MOVISTAR DEPORTES 2 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66217
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR DEPORTES 2 FHD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",MOVISTAR DEPORTES 2 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66218
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR DEPORTES 3 HD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",MOVISTAR DEPORTES 3 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66219
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR DEPORTES 3 FHD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",MOVISTAR DEPORTES 3 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66220
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR DEPORTES 4 HD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",MOVISTAR DEPORTES 4 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66221
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR DEPORTES 4 FHD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",MOVISTAR DEPORTES 4 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66222
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR DEPORTES  5 HD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",MOVISTAR DEPORTES  5 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66223
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR DEPORTES 5 FHD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",MOVISTAR DEPORTES 5 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66224
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR DEPORTES 6 HD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",MOVISTAR DEPORTES 6 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66225
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR ELLAS FHD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",MOVISTAR ELLAS FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66226
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+ GOLF HD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",M+ GOLF HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66227
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+  GOLF FHD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",M+  GOLF FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66228
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+  GOLF Low Conx" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",M+  GOLF Low Conx
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66229
+
+#EXTINF:-1 tvg-ID="esp" tvg-name="EUROSPORT 1 SD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",EUROSPORT 1 SD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66230
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="EUROSPORT 1 FHD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",EUROSPORT 1 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66231
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="EUROSPORT 2 HD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",EUROSPORT 2 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66232
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="EUROSPORT 2 FHD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",EUROSPORT 2 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66233
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ESPA?A | EUROSPORTS 3" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",ESPA?A | EUROSPORTS 3
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66234
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="TELEDEPORTES HD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",TELEDEPORTES HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66235
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="TELEDEPORTES FHD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",TELEDEPORTES FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66236
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="REAL MADRID FHD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",REAL MADRID FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66237
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="BARCA TV FHD" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",BARCA TV FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66238
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="SEVILLA FC TV" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",SEVILLA FC TV
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66239
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="BETIS TV" tvg-logo="" group-title="(IPTV) MOVISTAR DEPORTES ",BETIS TV
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66240
+
+
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Infantil Info" tvg-logo="" group-title="(IPTV) ESTRENOS INFANTILES ",Infantil Info
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64908
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Infantil 1" tvg-logo="" group-title="(IPTV) ESTRENOS INFANTILES ",Infantil 1
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64909
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Infantil 2" tvg-logo="" group-title="(IPTV) ESTRENOS INFANTILES ",Infantil 2
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64910
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Infantil 3" tvg-logo="" group-title="(IPTV) ESTRENOS INFANTILES ",Infantil 3
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64911
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Infantil 4" tvg-logo="" group-title="(IPTV) ESTRENOS INFANTILES ",Infantil 4
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64912
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Infantil 5" tvg-logo="" group-title="(IPTV) ESTRENOS INFANTILES ",Infantil 5
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64913
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Infantil 6" tvg-logo="" group-title="(IPTV) ESTRENOS INFANTILES ",Infantil 6
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64914
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Infantil 7" tvg-logo="" group-title="(IPTV) ESTRENOS INFANTILES ",Infantil 7
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64915
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Infantil 8" tvg-logo="" group-title="(IPTV) ESTRENOS INFANTILES ",Infantil 8
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64916
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Infantil 9" tvg-logo="" group-title="(IPTV) ESTRENOS INFANTILES ",Infantil 9
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64917
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Infantil 10" tvg-logo="" group-title="(IPTV) ESTRENOS INFANTILES ",Infantil 10
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64918
+
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Estrenos" tvg-logo="" group-title="(IPTV) ESTRENOS NETFLIX ",Estrenos
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64919
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Accion" tvg-logo="" group-title="(IPTV) ESTRENOS NETFLIX ",Accion
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64920
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Ciencia ficcion" tvg-logo="" group-title="(IPTV) ESTRENOS NETFLIX ",Ciencia ficcion
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64921
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Drama" tvg-logo="" group-title="(IPTV) ESTRENOS NETFLIX ",Drama
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64922
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Comedia" tvg-logo="" group-title="(IPTV) ESTRENOS NETFLIX ",Comedia
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64923
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Suspense" tvg-logo="" group-title="(IPTV) ESTRENOS NETFLIX ",Suspense
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64924
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Familia" tvg-logo="" group-title="(IPTV) ESTRENOS NETFLIX ",Familia
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64925
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Terror" tvg-logo="" group-title="(IPTV) ESTRENOS NETFLIX ",Terror
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64926
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Disney" tvg-logo="" group-title="(IPTV) ESTRENOS NETFLIX ",Disney
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64927
+
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="PTV C?rdoba" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",PTV C?rdoba
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65196
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="PTV Sevilla" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",PTV Sevilla
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65197
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="PTV Linares" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",PTV Linares
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65198
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="PTV Granada" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",PTV Granada
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65199
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="PTV M?laga" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",PTV M?laga
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65200
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ESPA?A | TVG" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",ESPA?A | TVG
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66049
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ESPA?A | Telemadrid HD" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",ESPA?A | Telemadrid HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66050
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ESPA?A | Telemadrid FHD" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",ESPA?A | Telemadrid FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66051
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ESPA?A | ETB 1" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",ESPA?A | ETB 1
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66052
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ESPA?A | ETB 2" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",ESPA?A | ETB 2
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66053
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="CANAL SUR HD" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",CANAL SUR HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66055
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="CANAL SUR FHD" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",CANAL SUR FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66056
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Canal Sur 2 Andaluc?a" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",Canal Sur 2 Andaluc?a
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66057
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ESPA?A : ALL FLAMENCO" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",ESPA?A : ALL FLAMENCO
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66058
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Canal Malaga" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",Canal Malaga
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66059
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ESPA?A | Canal Extremadura" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",ESPA?A | Canal Extremadura
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66060
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES : 7 TV REGION DE MURCIA" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",ES : 7 TV REGION DE MURCIA
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66061
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="TVG 2" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",TVG 2
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66062
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES  : LA 7" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",ES  : LA 7
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66063
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES : LA OTRA" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",ES : LA OTRA
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66064
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ESPA?A | Aragon TV HD" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",ESPA?A | Aragon TV HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66066
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ESPA?A | Aragon TV FHD" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",ESPA?A | Aragon TV FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66067
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ESPA?A | Andalucia TV HD" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",ESPA?A | Andalucia TV HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66068
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ESPA?A | Andalucia TV FHD" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",ESPA?A | Andalucia TV FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66069
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ESPA?A : CASTILLA LA MANCHA MEDIA" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",ESPA?A : CASTILLA LA MANCHA MEDIA
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66070
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="A PUNT" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",A PUNT
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66071
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="TV3 SD" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",TV3 SD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66072
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="TV3 HD" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",TV3 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66073
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES : 101TV M?laga" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",ES : 101TV M?laga
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66074
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES : Onda C?diz" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",ES : Onda C?diz
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66075
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES : Mijas 3.40 TV" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",ES : Mijas 3.40 TV
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66076
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="ES : C?rdoba TV" tvg-logo="" group-title="(IPTV) AUTONOMICAS ",ES : C?rdoba TV
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66077
+
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR LIGA CAMPEONES SD ?" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",MOVISTAR LIGA CAMPEONES SD ?
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55226
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR LIGA CAMPEONES HD" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",MOVISTAR LIGA CAMPEONES HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55227
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR LIGA CAMPEONES HD(OP B)" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",MOVISTAR LIGA CAMPEONES HD(OP B)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55228
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga de Campeones 2 HD" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",M. Liga de Campeones 2 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65619
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+ Liga de Campeones UHD" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",M+ Liga de Campeones UHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65638
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR LIGA CAMPEONES FHD" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",MOVISTAR LIGA CAMPEONES FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55229
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR LIGA CAMPEONES (1080 t.)" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",MOVISTAR LIGA CAMPEONES (1080 t.)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55230
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Liga De Campeones (1080p.)" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",Liga De Campeones (1080p.)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55231
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Liga De Campeones [Full HD]" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",Liga De Campeones [Full HD]
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55232
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Liga De Campeones (1080 6/8Mgbps)" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",Liga De Campeones (1080 6/8Mgbps)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55233
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Liga De Campeones HD" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",Liga De Campeones HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55234
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+ Liga De Campeones 2 1080" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",M+ Liga De Campeones 2 1080
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55237
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Liga De Campeones 2 HD" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",Liga De Campeones 2 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55238
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LIGA DE CAMPEONES 2 [720p.]" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",LIGA DE CAMPEONES 2 [720p.]
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55239
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+ LIGA DE CAMPEONES 3 SD" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",M+ LIGA DE CAMPEONES 3 SD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55240
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+ LIGA DE CAMPEONES 3 FHD" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",M+ LIGA DE CAMPEONES 3 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/55241
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Liga de Campeones (test)" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",Liga de Campeones (test)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66287
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga Campeones 4 HD" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",M. Liga Campeones 4 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66396
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga Campeones 4 HD" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",M. Liga Campeones 4 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66397
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga de Campeones 4 FHD" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",M. Liga de Campeones 4 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66398
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Liga Campeones SD (test 2)" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",Liga Campeones SD (test 2)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66399
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+ Liga de Campeones HD (test)" tvg-logo="" group-title="(IPTV) U.E.F.A. Champion League",M+ Liga de Campeones HD (test)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66400
+
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga de Campeones" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",M. Liga de Campeones
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65629
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Movistar Liga De Campeones HD" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",Movistar Liga De Campeones HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65630
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga De Campeones HD" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",M. Liga De Campeones HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65631
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LIGA DE CAMPEONES FHD" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",LIGA DE CAMPEONES FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65632
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga de Campeones FHD" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",M. Liga de Campeones FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65633
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga de Campeones 2" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",M. Liga de Campeones 2
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65634
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR LIGA DE CAMPEONES 2 [LIVE-EVENT]" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",MOVISTAR LIGA DE CAMPEONES 2 [LIVE-EVENT]
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65635
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga de Campeones 2 HD" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",M. Liga de Campeones 2 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65636
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga de Campeones 2 FHD" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",M. Liga de Campeones 2 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65637
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Champions league Match 1" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",Champions league Match 1
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65947
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Champions league Match 2" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",Champions league Match 2
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65948
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Champions league Match 3" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",Champions league Match 3
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65949
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Champions league Match 4" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",Champions league Match 4
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65950
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga Campeones 5" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",M. Liga Campeones 5
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66385
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga Campeones 5 HD" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",M. Liga Campeones 5 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66386
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga Campeones 5 HD" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",M. Liga Campeones 5 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66387
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga de Campeones 5 FHD" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",M. Liga de Campeones 5 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66388
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga Campeones 6" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",M. Liga Campeones 6
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66389
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga de Campeones 6" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",M. Liga de Campeones 6
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66390
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga Campeones 7" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",M. Liga Campeones 7
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66391
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga de Campeones 7" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",M. Liga de Campeones 7
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66392
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga de Campeones 8" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",M. Liga de Campeones 8
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66393
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. Liga de Campeones 8" tvg-logo="" group-title="(IPTV) Champion League [EXTRA]",M. Liga de Campeones 8
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66394
+
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN LIGA F (EVENTO 1)" tvg-logo="" group-title="(IPTV) DAZN FEMENINO",DAZN LIGA F (EVENTO 1)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65952
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN LIGA F (EVENTO 2)" tvg-logo="" group-title="(IPTV) DAZN FEMENINO",DAZN LIGA F (EVENTO 2)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65953
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN LIGA F (EVENTO 3)" tvg-logo="" group-title="(IPTV) DAZN FEMENINO",DAZN LIGA F (EVENTO 3)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65954
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN LIGA F (EVENTO 4)" tvg-logo="" group-title="(IPTV) DAZN FEMENINO",DAZN LIGA F (EVENTO 4)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65955
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN LIGA F (EVENTO 5)" tvg-logo="" group-title="(IPTV) DAZN FEMENINO",DAZN LIGA F (EVENTO 5)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65956
+
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LALIGA | TV BAR EXCLUSIVO" tvg-logo="" group-title="(IPTV) LaLIGA BAR T.V.",LALIGA | TV BAR EXCLUSIVO
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66078
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LALIGA | TV BAR EXCLUSIVO FHD" tvg-logo="" group-title="(IPTV) LaLIGA BAR T.V.",LALIGA | TV BAR EXCLUSIVO FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66079
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA LIGA TV BAR 1 [LIVE-EVENT]" tvg-logo="" group-title="(IPTV) LaLIGA BAR T.V.",LA LIGA TV BAR 1 [LIVE-EVENT]
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66080
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA LIGA TV BAR 2 (SOLO EVENTOS)" tvg-logo="" group-title="(IPTV) LaLIGA BAR T.V.",LA LIGA TV BAR 2 (SOLO EVENTOS)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66081
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA LIGA TV BAR 4 (SOLO EVENTOS)" tvg-logo="" group-title="(IPTV) LaLIGA BAR T.V.",LA LIGA TV BAR 4 (SOLO EVENTOS)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66082
+
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA LIGA SMARTBANK  TV  SD" tvg-logo="" group-title="(IPTV) LaLIGA SMARTBANK TV",LA LIGA SMARTBANK  TV  SD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66084
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA LIGA SMARTBANK TV HD" tvg-logo="" group-title="(IPTV) LaLIGA SMARTBANK TV",LA LIGA SMARTBANK TV HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66085
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA LIGA SMARTBANK TV FHD ?" tvg-logo="" group-title="(IPTV) LaLIGA SMARTBANK TV",LA LIGA SMARTBANK TV FHD ?
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66086
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA LIGA SMARTBANK TV  FHD" tvg-logo="" group-title="(IPTV) LaLIGA SMARTBANK TV",LA LIGA SMARTBANK TV  FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66087
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA LIGA SMARTBANK TV FHD (OP1)" tvg-logo="" group-title="(IPTV) LaLIGA SMARTBANK TV",LA LIGA SMARTBANK TV FHD (OP1)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66088
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA LIGA SMARTBANK TV M2 SD" tvg-logo="" group-title="(IPTV) LaLIGA SMARTBANK TV",LA LIGA SMARTBANK TV M2 SD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66089
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA LIGA SMARTBANK TV M2 HD" tvg-logo="" group-title="(IPTV) LaLIGA SMARTBANK TV",LA LIGA SMARTBANK TV M2 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66090
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA LIGA SMARTBANK TV M2 FHD  (OP1)" tvg-logo="" group-title="(IPTV) LaLIGA SMARTBANK TV",LA LIGA SMARTBANK TV M2 FHD  (OP1)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66091
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA LIGA SMARTBANK M3 SD" tvg-logo="" group-title="(IPTV) LaLIGA SMARTBANK TV",LA LIGA SMARTBANK M3 SD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66092
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA LIGA SMARTBANK TV M3 FHD" tvg-logo="" group-title="(IPTV) LaLIGA SMARTBANK TV",LA LIGA SMARTBANK TV M3 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66093
+
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+  LA LIGA  [MOVIL & TABLET]" tvg-logo="" group-title="(IPTV) M+LaLiga TV",M+  LA LIGA  [MOVIL & TABLET]
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66106
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+ LA LIGA SD [test]" tvg-logo="" group-title="(IPTV) M+LaLiga TV",M+ LA LIGA SD [test]
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66107
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR LA LIGA HD" tvg-logo="" group-title="(IPTV) M+LaLiga TV",MOVISTAR LA LIGA HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66108
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+ LA LIGA FHD ?" tvg-logo="" group-title="(IPTV) M+LaLiga TV",M+ LA LIGA FHD ?
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66109
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+ LA LIGA FHD ? (FIBRA)" tvg-logo="" group-title="(IPTV) M+LaLiga TV",M+ LA LIGA FHD ? (FIBRA)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66110
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+ LA LIGA FHD ? [G]" tvg-logo="" group-title="(IPTV) M+LaLiga TV",M+ LA LIGA FHD ? [G]
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66111
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+  LA LIGA FHD ? (OP B)" tvg-logo="" group-title="(IPTV) M+LaLiga TV",M+  LA LIGA FHD ? (OP B)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66112
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR LA LIGA 2 HD" tvg-logo="" group-title="(IPTV) M+LaLiga TV",MOVISTAR LA LIGA 2 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66113
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+  LA LIGA 2 FHD ?" tvg-logo="" group-title="(IPTV) M+LaLiga TV",M+  LA LIGA 2 FHD ?
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66114
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+  LA LIGA 2 Full HD" tvg-logo="" group-title="(IPTV) M+LaLiga TV",M+  LA LIGA 2 Full HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66115
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+ LA LIGA 3 SD" tvg-logo="" group-title="(IPTV) M+LaLiga TV",M+ LA LIGA 3 SD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66116
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+ LA LIGA 3 HD" tvg-logo="" group-title="(IPTV) M+LaLiga TV",M+ LA LIGA 3 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66117
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+ LA LIGA 3 FHD ?" tvg-logo="" group-title="(IPTV) M+LaLiga TV",M+ LA LIGA 3 FHD ?
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66118
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. LaLiga 1080-Op.B" tvg-logo="" group-title="(IPTV) M+LaLiga TV",M. LaLiga 1080-Op.B
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66119
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. LaLiga 1080p.[G]" tvg-logo="" group-title="(IPTV) M+LaLiga TV",M. LaLiga 1080p.[G]
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66120
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. LaLiga 1080p.[G]" tvg-logo="" group-title="(IPTV) M+LaLiga TV",M. LaLiga 1080p.[G]
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66121
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. LaLiga Full HD" tvg-logo="" group-title="(IPTV) M+LaLiga TV",M. LaLiga Full HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66122
+
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LaLiga HD" tvg-logo="" group-title="(IPTV) M+LaLiga TV [Extra]",LaLiga HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66123
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LALIGA | LALIGA HD EXTRA" tvg-logo="" group-title="(IPTV) M+LaLiga TV [Extra]",LALIGA | LALIGA HD EXTRA
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66124
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+ LALIGA FHD" tvg-logo="" group-title="(IPTV) M+LaLiga TV [Extra]",M+ LALIGA FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66125
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LALIGA | LALIGA FHD EXTRA 1" tvg-logo="" group-title="(IPTV) M+LaLiga TV [Extra]",LALIGA | LALIGA FHD EXTRA 1
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66126
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LALIGA | LALIGA FHD EXTRA 2" tvg-logo="" group-title="(IPTV) M+LaLiga TV [Extra]",LALIGA | LALIGA FHD EXTRA 2
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66127
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LALIGA | MOVISTAR LALIGA FHD" tvg-logo="" group-title="(IPTV) M+LaLiga TV [Extra]",LALIGA | MOVISTAR LALIGA FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66128
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M+ LA Liga FHD" tvg-logo="" group-title="(IPTV) M+LaLiga TV [Extra]",M+ LA Liga FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66129
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LA LIGA TV 4K (SOLO EVENTOS)" tvg-logo="" group-title="(IPTV) M+LaLiga TV [Extra]",LA LIGA TV 4K (SOLO EVENTOS)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66130
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="LALIGA | MOVISTAR LALIGA FHD" tvg-logo="" group-title="(IPTV) M+LaLiga TV [Extra]",LALIGA | MOVISTAR LALIGA FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66131
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="MOVISTAR LALIGA FHD" tvg-logo="" group-title="(IPTV) M+LaLiga TV [Extra]",MOVISTAR LALIGA FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66132
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. LaLiga Full HD" tvg-logo="" group-title="(IPTV) M+LaLiga TV [Extra]",M. LaLiga Full HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66133
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. LaLiga 2 FHD - A" tvg-logo="" group-title="(IPTV) M+LaLiga TV [Extra]",M. LaLiga 2 FHD - A
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66134
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. LaLiga 2 FHD" tvg-logo="" group-title="(IPTV) M+LaLiga TV [Extra]",M. LaLiga 2 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66135
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. LaLiga 2 HD" tvg-logo="" group-title="(IPTV) M+LaLiga TV [Extra]",M. LaLiga 2 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66136
+
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN Liga [Movil & Tablet]" tvg-logo="" group-title="(IPTV) DAZN LaLiga",DAZN Liga [Movil & Tablet]
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66147
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Dazn LaLiga 720p." tvg-logo="" group-title="(IPTV) DAZN LaLiga",Dazn LaLiga 720p.
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66148
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN LaLiga 1080p." tvg-logo="" group-title="(IPTV) DAZN LaLiga",DAZN LaLiga 1080p.
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66149
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN LA LIGA FHD ?" tvg-logo="" group-title="(IPTV) DAZN LaLiga",DAZN LA LIGA FHD ?
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66150
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN LaLiga HD ? (H.265)" tvg-logo="" group-title="(IPTV) DAZN LaLiga",DAZN LaLiga HD ? (H.265)
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66151
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN LaLiga FHD [X]." tvg-logo="" group-title="(IPTV) DAZN LaLiga",DAZN LaLiga FHD [X].
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66152
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. DAZN LA LIGA 2 SD" tvg-logo="" group-title="(IPTV) DAZN LaLiga",M. DAZN LA LIGA 2 SD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66153
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. DAZN LA LIGA 2 HD" tvg-logo="" group-title="(IPTV) DAZN LaLiga",M. DAZN LA LIGA 2 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66154
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="M. DAZN LA LIGA 2 FHD ?" tvg-logo="" group-title="(IPTV) DAZN LaLiga",M. DAZN LA LIGA 2 FHD ?
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66155
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Dazn LaLiga Full Hd" tvg-logo="" group-title="(IPTV) DAZN LaLiga",Dazn LaLiga Full Hd
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66206
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Dazn LaLiga 1080p. [G]" tvg-logo="" group-title="(IPTV) DAZN LaLiga",Dazn LaLiga 1080p. [G]
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66207
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="Dazn LaLiga HD [Test]" tvg-logo="" group-title="(IPTV) DAZN LaLiga",Dazn LaLiga HD [Test]
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66401
+
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN F1 HD" tvg-logo="" group-title="(IPTV) DAZN por Movistar +  ",DAZN F1 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66161
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN F1 720p." tvg-logo="" group-title="(IPTV) DAZN por Movistar +  ",DAZN F1 720p.
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66162
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN F1 low conx" tvg-logo="" group-title="(IPTV) DAZN por Movistar +  ",DAZN F1 low conx
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66163
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN F1 Full HD" tvg-logo="" group-title="(IPTV) DAZN por Movistar +  ",DAZN F1 Full HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66164
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN MOVISTAR F1 4K" tvg-logo="" group-title="(IPTV) DAZN por Movistar +  ",DAZN MOVISTAR F1 4K
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66165
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN MOVISTAR 1 SD" tvg-logo="" group-title="(IPTV) DAZN por Movistar +  ",DAZN MOVISTAR 1 SD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66166
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN MOVISTAR 1 HD" tvg-logo="" group-title="(IPTV) DAZN por Movistar +  ",DAZN MOVISTAR 1 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66167
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN MOVISTAR 1 FHD ?" tvg-logo="" group-title="(IPTV) DAZN por Movistar +  ",DAZN MOVISTAR 1 FHD ?
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66168
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN 2 FHD" tvg-logo="" group-title="(IPTV) DAZN por Movistar +  ",DAZN 2 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66170
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN 3 HD" tvg-logo="" group-title="(IPTV) DAZN por Movistar +  ",DAZN 3 HD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66171
+
+#EXTINF:-1 tvg-ID="ext" tvg-name="DAZN 4 FHD" tvg-logo="" group-title="(IPTV) DAZN por Movistar +  ",DAZN 4 FHD
+http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66172
