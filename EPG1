@@ -3,6 +3,7 @@
 
 
 
+
 #EXTINF:-1, CANAL COCINA SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
@@ -256,27 +257,27 @@ http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178102.ts
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178103.ts
 
-#EXTINF:-1, 0104
+#EXTINF:-1, ATRESERIES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178104.ts
 
-#EXTINF:-1, 0105
+#EXTINF:-1, ATRESERIES FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178105.ts
 
-#EXTINF:-1, 0106
+#EXTINF:-1, FOX SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178106.ts
 
-#EXTINF:-1, 0107
+#EXTINF:-1, FOX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178107.ts
 
-#EXTINF:-1, 0108
+#EXTINF:-1, FOX SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178108.ts
@@ -296,100 +297,252 @@ http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178110.ts
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178111.ts
 
-#EXTINF:-1, 0112
+#EXTINF:-1, AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178112.ts
 
-#EXTINF:-1, 0113
+#EXTINF:-1, AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178113.ts
 
-#EXTINF:-1, 0114
+#EXTINF:-1, AXN FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178114.ts
 
-#EXTINF:-1, 0115
+#EXTINF:-1, M+ TERROR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178115.ts
 
-#EXTINF:-1, 0116
+#EXTINF:-1, M+ TERROR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178116.ts
 
-#EXTINF:-1, 0117
+#EXTINF:-1, M+ TERROR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178117.ts
 
-#EXTINF:-1, 0118
+#EXTINF:-1, TCM HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178118.ts
 
-#EXTINF:-1, 0119
+#EXTINF:-1, TCM HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178119.ts
 
-#EXTINF:-1, 0120
+#EXTINF:-1, TCM FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178120.ts
 
-#EXTINF:-1, 0121
+#EXTINF:-1, SYFY FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178121.ts
 
-#EXTINF:-1, 0122
+#EXTINF:-1, SYFY FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178122.ts
 
-#EXTINF:-1, 0123
+#EXTINF:-1, SYFY FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178123.ts
 
-#EXTINF:-1, 0124
+#EXTINF:-1, CALLE 13 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178124.ts
 
-#EXTINF:-1, 0125
+#EXTINF:-1, CALLE 13 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178125.ts
 
-#EXTINF:-1, 0126
+#EXTINF:-1, CALLE 13 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178126.ts
 
-#EXTINF:-1, 0127
+#EXTINF:-1, COSMO SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178127.ts
 
-#EXTINF:-1, 0128
+#EXTINF:-1, COSMO SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178128.ts
 
-#EXTINF:-1, 0129
+#EXTINF:-1, COSMO FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178129.ts
 
-#EXTINF:-1, 0130
+#EXTINF:-1, ERROR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178130.ts
+
+#EXTINF:-1, 131
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178131.ts
+
+#EXTINF:-1, 132
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178132.ts
+
+#EXTINF:-1, 133
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178133.ts
+
+#EXTINF:-1, 134
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178134.ts
+
+#EXTINF:-1, 135
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178135.ts
+
+#EXTINF:-1, 136
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178136.ts
+
+#EXTINF:-1, 137
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178137.ts
+
+#EXTINF:-1, 138
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178138.ts
+
+#EXTINF:-1, 139
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178139.ts
+
+#EXTINF:-1, 140
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178140.ts
+
+#EXTINF:-1, 141
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178141.ts
+
+#EXTINF:-1, 142
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178142.ts
+
+#EXTINF:-1, 143
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178143.ts
+
+#EXTINF:-1, 144
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178144.ts
+
+#EXTINF:-1, 145
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178145.ts
+
+#EXTINF:-1, 146
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178146.ts
+
+#EXTINF:-1, 147
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178147.ts
+
+#EXTINF:-1, 148
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178148.ts
+
+#EXTINF:-1, 149
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178149.ts
+
+#EXTINF:-1, 150
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178150.ts
+
+#EXTINF:-1, 151
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178151.ts
+
+#EXTINF:-1, 152
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178152.ts
+
+#EXTINF:-1, 153
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178153.ts
+
+#EXTINF:-1, 154
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178154.ts
+
+#EXTINF:-1, 155
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178155.ts
+
+#EXTINF:-1, 156
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178156.ts
+
+#EXTINF:-1, 157
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178157.ts
+
+#EXTINF:-1, 158
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178158.ts
+
+#EXTINF:-1, 159
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178159.ts
+
+#EXTINF:-1, 160
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://darg.site:2082/live/viktor22/newJdqR5ksgQ3YKYnew/178160.ts
+
+
 
 
 
