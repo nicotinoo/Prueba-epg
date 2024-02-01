@@ -1,16 +1,17 @@
 
 
-#EXTINF:-1, 323620
+#EXTINF:-1, M+ SERIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323620/mpegts?token=0C0313859D21980E031584CA319B8B57
+
 
 
 #EXTINF:-1 tvg-id="M+ CINE" group-title="OTT Movistar Plus+" ch-number="12" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MV1",M+ CINE
 http://flbl1.112421.net:8082/323624/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 #EXTINF:-1 tvg-id="M+ SERIES" group-title="OTT Movistar Plus+" ch-number="13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MV2",M+ SERIES
-http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/178096
+http://flbl1.112421.net:8082/323620/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 #EXTINF:-1 tvg-id="M+ ORIGINALES" group-title="OTT Movistar Plus+" ch-number="14" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MORIG",M+ ORIGINALES
 http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/178072
@@ -60,6 +61,8 @@ EXTINF:-1,M+ Acción
 http://flbl1.112421.net:8082/323619/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 EXTINF:-1,M+ 323620
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323620/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 #EXTINF:-1,M+ Comedia
@@ -71,6 +74,8 @@ EXTINF:-1,M+ Drama
 http://flbl1.112421.net:8082/323622/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 EXTINF:-1,M+ 323623
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323623/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 #EXTINF:-1,M+ Cine
@@ -78,6 +83,8 @@ http://flbl1.112421.net:8082/323623/mpegts?token=0C0313859D21980E031584CA319B8B5
 http://flbl1.112421.net:8082/323624/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 EXTINF:-1,M+ 323625
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323625/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 
@@ -90,24 +97,38 @@ EXTINF:-1, M+ LaLiga Tv
 http://flbl1.112421.net:8082/323626/mpegts?token=8bIzH6BC82Xf8a20OMBYnLuJ6FTYwld9JLAM
 
 EXTINF:-1,M+ 323627
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323627/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 EXTINF:-1,M+ 323628
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323628/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 EXTINF:-1,M+ 323629
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323629/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 EXTINF:-1,M+ 323630
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323630/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 EXTINF:-1,M+ 323631
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323631/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 EXTINF:-1,M+ 323632
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323632/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 EXTINF:-1,M+ 323633
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323633/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 
