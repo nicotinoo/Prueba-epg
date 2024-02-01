@@ -92,7 +92,7 @@ http://flbl1.112421.net:8082/323615/mpegts?token=0C0313859D21980E031584CA319B8B5
 http://flbl1.112421.net:8082/323616/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 
-#EXTINF:-1, 617
+#EXTINF:-1, LA SEXTA FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323617/mpegts?token=0C0313859D21980E031584CA319B8B57
@@ -184,90 +184,190 @@ http://flbl1.112421.net:8082/323633/mpegts?token=0C0313859D21980E031584CA319B8B5
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323634/mpegts?token=0C0313859D21980E031584CA319B8B57
 
-#EXTINF:-1, 635
+#EXTINF:-1, DISNEY CHANNEL FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323635/mpegts?token=0C0313859D21980E031584CA319B8B57
 
-#EXTINF:-1, 636
+#EXTINF:-1, M+ DRAMA FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323636/mpegts?token=0C0313859D21980E031584CA319B8B57
 
-#EXTINF:-1, 637
+#EXTINF:-1, ONETORO FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323637/mpegts?token=0C0313859D21980E031584CA319B8B57
 
-#EXTINF:-1, 638
+#EXTINF:-1, NAT GEO WILD FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323638/mpegts?token=0C0313859D21980E031584CA319B8B57
 
-#EXTINF:-1, 639
+#EXTINF:-1, NATIONAL GEOGRAPHIC FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323639/mpegts?token=0C0313859D21980E031584CA319B8B57
 
-#EXTINF:-1, 640
+#EXTINF:-1, NICK JUNIOR SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323640/mpegts?token=0C0313859D21980E031584CA319B8B57
 
-#EXTINF:-1, 641
+#EXTINF:-1, PARAMOUNT NETWORK SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323641/mpegts?token=0C0313859D21980E031584CA319B8B57
 
-#EXTINF:-1, 642
+#EXTINF:-1, M+ LALIGA FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323642/mpegts?token=0C0313859D21980E031584CA319B8B57
 
-#EXTINF:-1, 643
+#EXTINF:-1, SYFY FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323643/mpegts?token=0C0313859D21980E031584CA319B8B57
 
-#EXTINF:-1, 644
+#EXTINF:-1, TCM FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323644/mpegts?token=0C0313859D21980E031584CA319B8B57
 
-#EXTINF:-1, 645
+#EXTINF:-1, TELECINCO FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323645/mpegts?token=0C0313859D21980E031584CA319B8B57
 
-#EXTINF:-1, 646
+#EXTINF:-1, WARNER FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323646/mpegts?token=0C0313859D21980E031584CA319B8B57
 
-#EXTINF:-1, 647
+#EXTINF:-1, COSMO FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323647/mpegts?token=0C0313859D21980E031584CA319B8B57
 
-#EXTINF:-1, 648
+#EXTINF:-1, 24 KITCHEN FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323648/mpegts?token=0C0313859D21980E031584CA319B8B57
 
-#EXTINF:-1, 649
+#EXTINF:-1, A BOLA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323649/mpegts?token=0C0313859D21980E031584CA319B8B57
 
-#EXTINF:-1, 650
+#EXTINF:-1, AMC FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323650/mpegts?token=0C0313859D21980E031584CA319B8B57
 
-#EXTINF:-1, 651
+#EXTINF:-1, AXN MOVIES FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323651/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 652
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323652/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 653
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323653/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 654
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323654/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 655
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323655/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 656
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323656/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 657
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323657/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 658
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323658/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 659
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323659/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 660
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323660/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 661
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323661/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 662
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323662/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 663
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323663/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 664
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323664/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 665
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323665/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 666
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323666/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 667
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323667/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 668
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323668/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 669
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323669/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 670
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323670/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1, 671
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
+http://flbl1.112421.net:8082/323671/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 
 
@@ -286,6 +386,3 @@ http://flbl1.112421.net:8082/323651/mpegts?token=0C0313859D21980E031584CA319B8B5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/337813/mpegts?token=0C0313859D21980E031584CA319B8B57
-
-
-
