@@ -57,7 +57,8 @@ http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/178087
 
 
 EXTINF:-1, M+ Acción
-#EXTVLCOPT:program=29990
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323619/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 EXTINF:-1, M+ SERIES
@@ -66,11 +67,13 @@ EXTINF:-1, M+ SERIES
 http://flbl1.112421.net:8082/323620/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 #EXTINF:-1, M+ Comedia
-#EXTVLCOPT:program=29992
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323621/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 EXTINF:-1, M+ Drama
-#EXTVLCOPT:program=29993
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323622/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 EXTINF:-1, M+ VAMOS
@@ -79,7 +82,8 @@ EXTINF:-1, M+ VAMOS
 http://flbl1.112421.net:8082/323623/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 #EXTINF:-1, M+ Cine
-#EXTVLCOPT:program=29978
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323624/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 EXTINF:-1, DAZN F1
@@ -130,14 +134,16 @@ http://flbl1.112421.net:8082/323633/mpegts?token=0C0313859D21980E031584CA319B8B5
 
 
 #EXTINF:-1,M+ Deportes
-#EXTVLCOPT:program=29960
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323634/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 
 
 
 #EXTINF:-1,M+ Vamos
-#EXTVLCOPT:program=29918
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/337813/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 
