@@ -122,7 +122,7 @@ EXTINF:-1, M+ SERIES
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323631/mpegts?token=0C0313859D21980E031584CA319B8B57
 
-EXTINF:-1, M+ SERIES
+#EXTINF:-1, M+ SERIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
 http://flbl1.112421.net:8082/323632/mpegts?token=0C0313859D21980E031584CA319B8B57
