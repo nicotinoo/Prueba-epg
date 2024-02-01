@@ -1,6 +1,56 @@
 
 
+#EXTINF:-1 tvg-id="M+ CINE" group-title="OTT Movistar Plus+" ch-number="12" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MV1",M+ CINE
+http://flbl1.112421.net:8082/323624/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1 tvg-id="M+ SERIES" group-title="OTT Movistar Plus+" ch-number="13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MV2",M+ SERIES
+http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/178096
+
+#EXTINF:-1 tvg-id="M+ ORIGINALES" group-title="OTT Movistar Plus+" ch-number="14" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MORIG",M+ ORIGINALES
+http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/178072
+
+#EXTINF:-1 tvg-id="M+ LOS GOYA" group-title="OTT Movistar Plus+" ch-number="15" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVCIVA.png",M+ LOS GOYA
+http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/375655
+
+#EXTINF:-1 tvg-id="M+ DOCUMENTALES" group-title="OTT Movistar Plus+" ch-number="17" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MDOC",M+ DOCUMENTALES
+http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/390165
+
+#EXTINF:-1 tvg-id="M+ MÚSICA" group-title="OTT Movistar Plus+" ch-number="18" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MONFIR",M+ MÚSICA
+http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/178067
+
+#EXTINF:-1 tvg-id="LA RESISTENCIA 24H" group-title="OTT Movistar Plus+" ch-number="19" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/RESIST",LA RESISTENCIA 24H
+http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/181899
+
+#EXTINF:-1 tvg-id="M+ CLÁSICOS" group-title="OTT Movistar Plus+" ch-number="20" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MCLAS",M+ CLÁSICOS
+http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/178093
+
+#EXTINF:-1 tvg-id="M+ ACCIÓN" group-title="OTT Movistar Plus+" ch-number="21" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CPACCI",M+ ACCIÓN
+http://flbl1.112421.net:8082/323619/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1 tvg-id="M+ COMEDIA" group-title="OTT Movistar Plus+" ch-number="22" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CPCOME",M+ COMEDIA
+http://flbl1.112421.net:8082/323621/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1 tvg-id="M+ DRAMA" group-title="OTT Movistar Plus+" ch-number="23" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CPCOLE",M+ DRAMA
+http://flbl1.112421.net:8082/323622/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+#EXTINF:-1 tvg-id="M+ SUSPENSE" group-title="OTT Movistar Plus+" ch-number="24" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MSUSP",M+ SUSPENSE
+http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/390160
+
+#EXTINF:-1 tvg-id="M+ INDIE" group-title="OTT Movistar Plus+" ch-number="25" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MINDI",M+ INDIE
+http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/390159
+
+#EXTINF:-1 tvg-id="M+ CINE ESPAÑOL" group-title="OTT Movistar Plus+" ch-number="26" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DCESP",M+ CINE ESPAÑOL
+http://darg.site:2082/viktor22/newJdqR5ksgQ3YKYnew/178087
+
+
+
+
+
+
+
+
 EXTINF:-1,M+ Acción
+#EXTVLCOPT:program=29990
 http://flbl1.112421.net:8082/323619/mpegts?token=0C0313859D21980E031584CA319B8B57
 
 EXTINF:-1,M+ 323620
@@ -58,3 +108,13 @@ http://flbl1.112421.net:8082/323633/mpegts?token=0C0313859D21980E031584CA319B8B5
 #EXTINF:-1,M+ Deportes
 #EXTVLCOPT:program=29960
 http://flbl1.112421.net:8082/323634/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+
+
+
+#EXTINF:-1,M+ Vamos
+#EXTVLCOPT:program=29918
+http://flbl1.112421.net:8082/337813/mpegts?token=0C0313859D21980E031584CA319B8B57
+
+
+
