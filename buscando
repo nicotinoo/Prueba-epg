@@ -14,7 +14,7 @@ https://mad02.cdn.avatel.tv/live/eds/mligacampeonest2/MPEG-DASH_Scrambled_High/m
 #KODIPROP:inputstream.adaptive.license_key={d3f26e48a2ed401186f3551a1fd8a834:49fbe10a5136a590207aa2e6c6f0ce96,4a34bc34edb24369976588427f39a546:f49c821a48ae9224eaa79b743f027d60,e882acbecdca4e34a5ede13f2c4e1bd9:0594217fa2306503294466f1a8b342f3}
 #EXTVLCOPT:http-referer=
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://bl01.cdn.avatel.tv/live/eds/mligacampeonest/MPEG-DASH_Scrambled_High/mligacampeonest.mpd
+https://bl01.cdn.avatel.tv/live/eds/mligacampeonest1/MPEG-DASH_Scrambled_High/mligacampeonest1.mpd
 
 
 #EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 3 BAR" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=eae806&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fldcbar.png" group-title="OTT Movistar Plus+",M+ LIGA DE CAMPEONES 3 BAR
