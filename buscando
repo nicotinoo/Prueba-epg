@@ -11,10 +11,10 @@ https://mad02.cdn.avatel.tv/live/eds/mligacampeonest2/MPEG-DASH_Scrambled_High/m
 #EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES BAR" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=eae806&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fldcbar.png" group-title="OTT Movistar Plus+",M+ LIGA DE CAMPEONES BAR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ccdcf3127c2a4ab2828310f5089e84d7:ad835ab5dcf8dc2c30e5afc570327777,79f4f266dc564cdcbe315184685b70d5:87ce5bfbdf9996e307ac81cf57c11bba,3a400683eae84263b014fd056bca9ff6:bacd8669b935ce52f792009546ac604f,b0417a618fde49018b7a8422b4c2613a:a0197dc55a0337907b126074765d7175}
+#KODIPROP:inputstream.adaptive.license_key={d3f26e48a2ed401186f3551a1fd8a834:49fbe10a5136a590207aa2e6c6f0ce96,4a34bc34edb24369976588427f39a546:f49c821a48ae9224eaa79b743f027d60,e882acbecdca4e34a5ede13f2c4e1bd9:0594217fa2306503294466f1a8b342f3}
 #EXTVLCOPT:http-referer=
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mad02.cdn.avatel.tv/live/eds/mligacampeonest1/MPEG-DASH_Scrambled_High/mligacampeonest1.mpd 
+https://bl01.cdn.avatel.tv/live/eds/mligacampeonest/MPEG-DASH_Scrambled_High/mligacampeonest.mpd
 
 
 #EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 3 BAR" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=eae806&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fldcbar.png" group-title="OTT Movistar Plus+",M+ LIGA DE CAMPEONES 3 BAR
@@ -33,6 +33,15 @@ https://mad02.cdn.avatel.tv/live/eds/mligacampeonest3/MPEG-DASH_Scrambled_High/m
 #EXTVLCOPT:http-referer=
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://bl01.cdn.avatel.tv/live/eds/mligacampeonest4/MPEG-DASH_Scrambled_High/mligacampeonest4.mpd
+
+
+#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 8 BAR" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=eae806&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fldcbar.png" group-title="OTT Movistar Plus+",M+ LIGA DE CAMPEONES 8 BAR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={d3f26e48a2ed401186f3551a1fd8a834:49fbe10a5136a590207aa2e6c6f0ce96}
+#EXTVLCOPT:http-referer=
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://bl01.cdn.avatel.tv/live/eds/mligacampeonest8/MPEG-DASH_Scrambled_High/mligacampeonest8.mpd
 
 
 
