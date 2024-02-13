@@ -1,3 +1,36 @@
+
+#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 2 BAR" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=eae806&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fldcbar.png" group-title="OTT Movistar Plus+",M+ LIGA DE CAMPEONES 2 BAR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ccdcf3127c2a4ab2828310f5089e84d7:ad835ab5dcf8dc2c30e5afc570327777,79f4f266dc564cdcbe315184685b70d5:87ce5bfbdf9996e307ac81cf57c11bba}
+#EXTVLCOPT:http-referer=
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://mad02.cdn.avatel.tv/live/eds/mligacampeonest2/MPEG-DASH_Scrambled_High/mligacampeonest2.mpd 
+
+
+#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES BAR" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=eae806&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fldcbar.png" group-title="OTT Movistar Plus+",M+ LIGA DE CAMPEONES BAR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ccdcf3127c2a4ab2828310f5089e84d7:ad835ab5dcf8dc2c30e5afc570327777,79f4f266dc564cdcbe315184685b70d5:87ce5bfbdf9996e307ac81cf57c11bba}
+#EXTVLCOPT:http-referer=
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://mad02.cdn.avatel.tv/live/eds/mligacampeonest1/MPEG-DASH_Scrambled_High/mligacampeonest1.mpd 
+
+
+#EXTINF:-1 tvg-id="M+ LIGA DE CAMPEONES 3 BAR" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=eae806&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fldcbar.png" group-title="OTT Movistar Plus+",M+ LIGA DE CAMPEONES 3 BAR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ccdcf3127c2a4ab2828310f5089e84d7:ad835ab5dcf8dc2c30e5afc570327777,79f4f266dc564cdcbe315184685b70d5:87ce5bfbdf9996e307ac81cf57c11bba}
+#EXTVLCOPT:http-referer=
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://mad02.cdn.avatel.tv/live/eds/mligacampeonest3/MPEG-DASH_Scrambled_High/mligacampeonest3.mpd 
+
+
+
+
+
+
+
 #EXTINF:-1, 579
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; M2103K19G Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/117.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=www.kool.to
